@@ -1,9 +1,14 @@
-<img width="751" height="584" alt="image" src="https://github.com/user-attachments/assets/df3693a4-435e-4713-91bf-633c5b581867" />
+# Directory Structure
+<img width="663" height="485" alt="image" src="https://github.com/user-attachments/assets/704c4218-6672-434b-a045-91bf12fe0f59" />
+
 
 
 ## For other **developers**
 
-pip install PyQt5 selenium beautifulsoup4 requests pandas webdriver-manager phonenumbers
+```pip install PyQt5 selenium beautifulsoup4 requests pandas webdriver-manager phonenumbers```
 
-
-python data_collector/main.py
+change directory with `cd` :
+  cd c:Users/user/documents/python data_collector/main.py
+```python
+python3 main.py
+```

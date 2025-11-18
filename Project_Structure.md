@@ -7,8 +7,8 @@
 
 ```pip install PyQt5 selenium beautifulsoup4 requests pandas webdriver-manager phonenumbers```
 
-change directory with `cd` :
-  cd c:Users/user/documents/python data_collector/main.py
+change directory with 
+`cd C:Users/user/documents/python data_collector/main.py`
 ```python
 python3 main.py
 ```
